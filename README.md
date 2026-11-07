@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,60:1E3A8A,100:0EA5E9&height=200&section=header&text=Md.%20Usha%20Khan&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Co-founder%20%40%20Factorite&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Md. Usha Khan"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,60:1E3A8A,100:0EA5E9&height=200&section=header&text=Md.%20Usha%20Khan&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20%C2%B7%20BUET%20CSE&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Md. Usha Khan"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=I+build+full-stack+education+products;CSE+undergraduate+%40+BUET;Turning+complex+ideas+into+clear+interfaces" alt="Typing tagline"/>
